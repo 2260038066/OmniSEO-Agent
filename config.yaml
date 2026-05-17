@@ -1,0 +1,17 @@
+project:
+  name: "OmniSEO Content Engine"
+  max_retries: 3        # Critic 打分不合格时的最大重写次数
+  pass_score: 85        # Critic 通过的最低分数线
+
+brand_settings:
+  tone_of_voice: "Professional, persuasive, and slightly enthusiastic. Focus on practical benefits rather than just features."
+  negative_words: ["cheap", "fake", "guaranteed 100%"]
+
+seo_targets:
+  primary_keywords: ["Wireless Earbuds", "Noise Cancelling", "Bluetooth 5.3"]
+  secondary_keywords: ["long battery life", "sport headphones", "waterproof"]
+  
+languages:
+  - English
+  - Spanish
+  - German
